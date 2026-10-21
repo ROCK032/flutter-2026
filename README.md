@@ -15,3 +15,11 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+
+
+## Lab 1 — Университетские мероприятия
+
+Готовая лабораторная: [проект, описание и скриншоты](labs/lab01/README.md).
+
+Запуск: `cd labs/lab01`, затем `flutter pub get` и `flutter run`.
+Краткая памятка: [DEFENSE_GUIDE.md](labs/lab01/DEFENSE_GUIDE.md).
